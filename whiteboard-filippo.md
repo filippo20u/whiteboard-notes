@@ -23,12 +23,13 @@ I can define a test variable with a string containing multiple words.
 
 test = 'the cat is on the table'
 
-// I will write my code using Javascript as my language because I'm more comfortable and I know more built-in methods in mind without looking for them
+// I will write my code using Javascript as my language because I'm more comfortable and I know more built-in methods in mind without looking for them.
 
 // I can define a function passing through a string.
   const capitalizer = (string) => {
 // it's probably easier to work with an array and map through it
     let array = string.split(' ')
+// console log my array to make sure it's workingß
     console.log(array)
 // using built in methods
     let eachItem = array.map(value => {
