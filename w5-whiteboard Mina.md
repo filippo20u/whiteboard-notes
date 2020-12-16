@@ -30,9 +30,27 @@ output: [1,2,3,4,5]
 language? JS
 
 example of iteration logic
-suggestions : pseudocode more to make sure everything is in place before you 
+suggestions : pseudocode more to make sure everything is in place before you start
 .contains ?
 equivalent of the function in another language
+
+
+//given an array of numbers
+arr1 = [1, 1, 2, 3, 4, 5, 5 ]
+//write a function that returns an array with all duplicate elements removed
+const duplicatesRemoved = (array) => {
+    duplicatesRemovedArray = []
+    array.filter(value) {
+        // push the value into the new array unless it already exists
+
+    }
+}
+
+
+//array will be stored from least to greatest
+//ex. input and output
+// input: arr1 = [1, 1, 2, 3, 4, 5, 5 ]
+// output: [1, 2, 3, 4, 5]
 
 
 

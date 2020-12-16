@@ -7,12 +7,14 @@
 // if else statement console log
 
 
-// 1) what's your weaknesses?
-// 2)  difference between object and array
-// 3)  difference between null, undefined, false, "not a number"
 
 
+// Q1) what's your weaknesses?
+// Q2)  difference between object and array
+// Q3)  difference between null, undefined, false, "not a number"
 
+
+PROMPT
 // group of friends start   name first letter of their names 
 // potentially uppercase
 // sorted alphabetically 
@@ -62,14 +64,12 @@ console.log(nameOfSociety(groupOfFriends)
 
 //  Alejandro :
 
-// your strenghts
-// git vs GitHub
-
-// what is a branch
-
+// Q1) your strenghts
+// Q2) git vs GitHub
+// Q30 what is a branch
 
 
-// coding prompt:
+PROMPT
 // farmer wants to count legs: 
 // chickens 2 
 // horse 4 
